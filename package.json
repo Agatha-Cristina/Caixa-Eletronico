@@ -1,0 +1,17 @@
+{
+  "name": "Caixa-Eletronico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Agatha-Cristina/Caixa-Eletronico",
+  "author": "Agatha Cristina",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.19.2",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "typescript": "^5.4.4"
+  }
+}
